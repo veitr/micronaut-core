@@ -1,3 +1,12 @@
+One can install Micronaut using https://scoop.sh/[scoop]
+
+[source,ps1]
+----
+scoop install micronaut
+----
+
+or, if one prefers, follow the manual installation below
+
 * Download the latest binary from http://micronaut.io/download.html[Micronaut Website]
 * Extract the binary to appropriate location (For example: `C:\micronaut`)
 * Create an environment variable `MICRONAUT_HOME` which points to the installation directory i.e. `C:\micronaut`
